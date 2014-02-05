@@ -1,2 +1,2 @@
-Simple test of require.js
+Simple test of Grunt
 

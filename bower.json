@@ -1,5 +1,5 @@
 {
-  "name": "llb_bower_test",
+  "name": "llb_grunt_test",
   "version": "1.0.0",
   "dependencies": {
     "jquery": "~2.0.3"
